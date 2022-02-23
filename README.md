@@ -1,0 +1,1 @@
+# tugas-sp1.2.js
